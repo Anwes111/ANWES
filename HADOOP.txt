@@ -1,15 +1,13 @@
 HI welcome to GITHUB class
 
-
-
 1st update
-
 
 2nd update
 
-
 3rd commit
-
 
 may be in project
 Additional branch
+
+trying merge
+
